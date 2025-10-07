@@ -1,10 +1,16 @@
-# TruScope Patch Notes – Version 1.2
-Released: October 7, 2025
+# 🧩 TruScope Patch Notes
 
-## 🆕 New
-- Added bias detection improvements  
-- Updated Chrome extension UI  
+---
 
-## 🐞 Fixes
-- Fixed tooltip flicker bug  
-- Optimized text analysis speed
+## **Version 1.2.6**  
+📅 *Released: October 5, 2025*
+
+###  🆕  New
+- Added ability to analyze articles from **unverified** and **opinion** sources.
+
+### 🐞 Fixed
+- Quota check bug.  
+- Infinite loading issue.  
+- Results screen flicker.
+
+---
