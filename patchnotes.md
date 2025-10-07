@@ -1,6 +1,5 @@
 # 🧩 TruScope Patch Notes
 
----
 
 ## **Version 1.2.6**  
 📅 *Released: October 5, 2025*
@@ -13,4 +12,4 @@
 - Infinite loading issue.  
 - Results screen flicker.
 
----
+
